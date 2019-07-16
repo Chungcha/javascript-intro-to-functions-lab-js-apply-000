@@ -19,8 +19,6 @@ function logWhisper(string){
     return "I love you, too.";
   }
 }*/
-function sayHiToGrandma(string){
-  if (string===string.toLowerCase){
+function sayHiToGrandma(string.toLowerCase){
     return "I can't hear you!";
-  }
 }
