@@ -19,6 +19,3 @@ function sayHiToGrandma(string){
     return "I love you, too.";
   }
 }
-/*function sayHiToGrandma(string.toLowerCase) {
-    return "I can't hear you!";
-}*/
